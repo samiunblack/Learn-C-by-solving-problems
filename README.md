@@ -1,6 +1,8 @@
 # How to use this guide
 Go to the Links and try to solve the problems yourself first. If you can't solve them yourself see the solution in the code.
 
+**Note**: This guide is for beginners, who are just getting started with C.
+
 # Get started with this repo
 ```
 git clone https://github.com/samiunblack/Learn-C-by-solving-problems.git
