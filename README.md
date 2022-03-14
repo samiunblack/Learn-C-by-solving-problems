@@ -1,3 +1,4 @@
+[Problem 8](https://www.beecrowd.com.br/judge/en/problems/view/1008): Write a program that reads an employee's number, his/her worked hours number in a month and the amount he received per hour. Print the employee's number and salary that he/she will receive at end of the month, with two decimal places.
 [Problem 9](https://www.beecrowd.com.br/judge/en/problems/view/1014): Calculate a car's average consumption being provided the total distance traveled (in Km) and the spent fuel total (in liters).
 [Problem 10](https://www.beecrowd.com.br/judge/en/problems/view/1042): Read three integers and sort them in ascending order. After, print these values in ascending order, a blank line and then the values in the sequence as they were readed.
 [Problem 11](https://www.beecrowd.com.br/judge/en/problems/view/1060): Write a program that reads 6 numbers. These numbers will only be positive or negative (disregard null values). Print the total number of positive numbers.
