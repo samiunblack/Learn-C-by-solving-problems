@@ -1,3 +1,4 @@
+Problem 3: Print number from 1000 to 1
 Problem 4: Find out the divisor of given T numbers.
 [Problem 5](https://www.beecrowd.com.br/judge/en/problems/view/1003): Read two integer values, in this case, the variables A and B. After this, calculate the sum between them and assign it to the variable SOMA. Write the value of this variable.
 [Problem 6](https://www.beecrowd.com.br/judge/en/problems/view/1006): Read three values (variables A, B and C), which are the three student's grades. Then, calculate the average, considering that grade A has weight 2, grade B has weight 3 and the grade C has weight 5. Consider that each grade can go from 0 to 10.0, always with one decimal place.
