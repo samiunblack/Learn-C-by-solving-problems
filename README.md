@@ -1,3 +1,4 @@
+[Problem 9](https://www.beecrowd.com.br/judge/en/problems/view/1014): Calculate a car's average consumption being provided the total distance traveled (in Km) and the spent fuel total (in liters).
 [Problem 10](https://www.beecrowd.com.br/judge/en/problems/view/1042): Read three integers and sort them in ascending order. After, print these values in ascending order, a blank line and then the values in the sequence as they were readed.
 [Problem 11](https://www.beecrowd.com.br/judge/en/problems/view/1060): Write a program that reads 6 numbers. These numbers will only be positive or negative (disregard null values). Print the total number of positive numbers.
 [Problem 12](https://www.beecrowd.com.br/judge/en/problems/view/1020): Read an integer value corresponding to a person's age (in days) and print it in years, months and days, followed by its respective message “ano(s)”, “mes(es)”, “dia(s)”.
