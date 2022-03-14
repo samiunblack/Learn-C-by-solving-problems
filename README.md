@@ -1,3 +1,4 @@
+[Problem 14](https://www.beecrowd.com.br/judge/en/problems/view/1074): Read an integer value N. After, read these N values and print a message for each value saying if this value is odd, even, positive or negative. In case of zero (0), although the correct description would be "EVEN NULL", because by definition zero is even, your program must print only "NULL", without quotes.
 [Problem 15](https://www.beecrowd.com.br/judge/en/problems/view/1073): Read an integer N. Print the square of each one of the even values from 1 to N including N if it is the case.
 [Problem 16](https://www.beecrowd.com.br/judge/en/problems/view/1153): Read a value N. Calculate and write its corresponding factorial. Factorial of N = N * (N-1) * (N-2) * (N-3) * ... * 1.
 [Problem 17](https://www.beecrowd.com.br/judge/en/problems/view/1165): A Prime Number is a number that is divisible only by 1 (one) and by itself. For example the number 7 is Prime, because it can be divided only by 1 and by 7.
